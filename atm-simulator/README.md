@@ -1,4 +1,4 @@
-# ATM Simulator
+# Simulador de caixa
 
 Simulador de caixa eletrônico desenvolvido em Python.
 
